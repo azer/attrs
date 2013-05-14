@@ -9,6 +9,9 @@
   "dependencies": {
     "attr": "*"
   },
+  "devDependencies": {
+    "fox": "*"
+  },
   "repository": {
     "url": "git@github.com:adaio\/attrs.git",
     "type": "git"
